@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 TARGET modified file 2
+=======
+SOURCE modified file 2
+>>>>>>> conflicts-source
