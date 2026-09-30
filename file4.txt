@@ -1,1 +1,1 @@
-original content 4
+TARGET modified file 4
